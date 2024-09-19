@@ -1,0 +1,44 @@
+.center{
+    text-align: center;
+}
+
+.head{
+    background-color: yellow;
+    border: 12px dashed black;
+    font-size: 3rem;
+    padding: 30px;
+    margin: 10px;
+}
+
+.in-box{
+    margin: 60px 20px;
+    padding: 10px 30px;
+    background-color: rgb(255, 255, 24);
+    border: 7px double black;
+    color: black;
+}
+
+
+.submit-btn{
+    padding: 10px 20px;
+    margin-left: 18px;
+    background-color: rgb(255, 255, 24);
+    border: 3px dotted black;
+    color: black;
+}
+
+
+.editAdd{
+    border: 3px dashed yellow;
+    padding: 20px 20px;
+    background-color: black;
+    color: yellow;
+    border-radius: 20px;
+}
+
+.task{
+    font-size: 1.5rem;
+    text-align: left;
+    word-spacing: 15px;
+
+}
